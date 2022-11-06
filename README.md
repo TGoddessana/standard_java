@@ -13,6 +13,9 @@
     - :computer: 예제
       코드 : https://github.com/TGoddessana/standard_java/blob/db5ef9f1598a89556b405e2489738c03fd9f2684/src/main/java/StandardJava/Chapter02/PrimitiveType.java?plain=1#L1-L65
 - #### 오버플로우
+    - :fire: 블로그 정리 :https://gdsanadev.com/15660
+    - :computer: 예제
+      코드 : https://github.com/TGoddessana/standard_java/blob/426925aced81148e32168606b5ae5d999558d2b2/src/main/java/StandardJava/Chapter02/PrimitiveType.java?plain=1#L1-L35
 - #### 형변환
 
 <br/>
