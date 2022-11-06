@@ -1,40 +1,80 @@
-## Java 문법 공부를 위한 저장소입니다.
+## :fire: Java 문법 공부를 위한 저장소입니다.
+
+<br/>
 
 ---
 
-### Variable
+<br/>
 
-### Operator
+### :bulb: Variable
 
-### Statement : if, switch, for, while
+- #### 원시 자료형
+- #### 오버플로우
+- #### 형변환
 
-### Array
+<br/>
 
-### Object-oriented Programming
+### :bulb: Operator
 
-### Exception handling
+<br/>
 
-### java.lang package & util classes
+### :bulb: Statement : if, switch, for, while
 
-### date, time and formatting
+<br/>
 
-### collections Framework
+### :bulb: Array
 
-### generics
+<br/>
 
-### enum
+### :bulb: Object-oriented Programming
 
-### annotation
+<br/>
 
-### thread
+### :bulb: Exception handling
 
-### Lambda Expression
+<br/>
 
-### stream
+### :bulb: java.lang package & util classes
 
-### I/O
+<br/>
 
-### Networking
+### :bulb: date, time and formatting
+
+<br/>
+
+### :bulb: collections Framework
+
+<br/>
+
+### :bulb: generics
+
+<br/>
+
+### :bulb: enum
+
+<br/>
+
+### :bulb: annotation
+
+<br/>
+
+### :bulb: thread
+
+<br/>
+
+### :bulb: Lambda Expression
+
+<br/>
+
+### :bulb: stream
+
+<br/>
+
+### :bulb: I/O
+
+<br/>
+
+### :bulb: Networking
 
 
 
