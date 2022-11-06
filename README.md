@@ -11,7 +11,7 @@
 - #### 원시 자료형
     - :fire:  블로그 정리 : https://gdsanadev.com/15658
     - :computer: 예제
-      코드 : https://github.com/TGoddessana/standard_java/blob/db5ef9f1598a89556b405e2489738c03fd9f2684/src/main/java/StandardJava/Chapter02/PrimitiveType.java#L1-L69
+      코드 : https://github.com/TGoddessana/standard_java/blob/db5ef9f1598a89556b405e2489738c03fd9f2684/src/main/java/StandardJava/Chapter02/PrimitiveType.java?plain=1#L1
 - #### 오버플로우
 - #### 형변환
 
